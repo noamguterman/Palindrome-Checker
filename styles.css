@@ -1,0 +1,44 @@
+* {
+  font-family: 'Roboto Mono', sans-serif;
+}
+
+body {
+  margin-top: 150px;
+  text-align: center;
+  background-color: #1d2a3d;
+}
+
+body h1 {
+  color: white;
+  text-decoration: underline;
+  font-size: 31px;
+}
+
+#main-container {
+  margin: 30px auto;
+  padding: 20px 0;
+  border-radius: 5px;
+  background-color: #d4e5ff;
+  width: 50%;
+}
+
+#main-container p {
+  margin: 10px 0;
+  font-size: 13px;
+}
+
+#text-input {
+  border-radius: 7px;
+}
+
+#check-btn {
+  border-radius: 7px;
+  margin: 20px 0;
+  cursor: pointer;
+}
+
+#definition {
+  color: white;
+  margin: 30px auto;
+  max-width: 360px;
+}
